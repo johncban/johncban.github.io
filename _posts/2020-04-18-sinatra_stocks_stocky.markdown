@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra + Stocks = Stocky"
-date:       2020-04-18 19:01:44 +0000
+date:       2020-04-18 15:01:45 -0400
 permalink:  sinatra_stocks_stocky
 ---
 
