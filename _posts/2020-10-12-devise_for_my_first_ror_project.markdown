@@ -6,6 +6,7 @@ permalink:  devise_for_my_first_ror_project
 ---
 
 Devise is another Rails authentication available from Ruby gems library, its the most common authentication gem because of the following factors:
+
 * Rack based.
 * Complete solution for MVC because it’s based in Rails.
 * Models Flexibility.
