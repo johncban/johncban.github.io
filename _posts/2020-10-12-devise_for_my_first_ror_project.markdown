@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Devise for My First RoR Project"
-date:       2020-10-12 11:20:20 +0000
+date:       2020-10-12 07:20:21 -0400
 permalink:  devise_for_my_first_ror_project
 ---
 
